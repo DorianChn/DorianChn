@@ -40,7 +40,7 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-掌握-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-活跃-black?style=for-the-badge&logo=github&logoColor=white)
 
-</div
+</div>
 
 ---
 
@@ -62,8 +62,42 @@ me.say_hi()
 | 项目 | 描述 | 技术 |
 |------|------|------|
 | [-Windows-24-AI-0-](https://github.com/DorianChn/-Windows-24-AI-0-) | AI学习之路 | Python, AI |
+| [DorianChn](https://github.com/DorianChn/DorianChn) | 个人主页 + 每日skill蒸馏 | Git, GitHub |
 
 </div>
+
+---
+
+## 🔄 每日自动更新
+
+<div align="center">
+
+**每天中午12:00自动运行**
+
+</div>
+
+```
+✅ 从GitHub选一个skill
+✅ 蒸馏成简化版（100行以内）
+✅ 保存到 skills/ 目录
+✅ 自动推送到GitHub
+✅ 保持绿色格子活跃
+```
+
+**定时任务ID：** `0cdc724be591`
+
+---
+
+## 📂 仓库结构
+
+```
+DorianChn/
+├── README.md          # 个人介绍
+└── skills/            # 每日蒸馏的skill
+    ├── skill-xxx.md   # 简化版skill
+    ├── skill-yyy.md
+    └── ...
+```
 
 ---
 
@@ -100,8 +134,20 @@ me.say_hi()
 
 ---
 
+## 🎯 2026年目标
+
+- [x] 学会Python基础
+- [ ] 完成3个机器学习项目
+- [ ] 参加Kaggle竞赛
+- [ ] 学会深度学习
+- [ ] 找到AI实习
+
+---
+
 <div align="center">
 
 **Thanks for visiting! 😊**
+
+⭐ **Star this repo if you like it!**
 
 </div>
