@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm 山川志 (DorianChn)
+# 👋 Hi, I'm 山川志 (DorianChn) 这个仓库是更新skills的
 
 <img src="https://komarev.com/ghpvc/?username=DorianChn&color=blueviolet&style=flat-square" alt="Profile views">
 
-### 🎓 闽江大学 | 大一学生
-### 🤖 AI工程师养成中
+### 🎓 闽江大学 
+### 🤖 skill更新
 
 </div>
 
