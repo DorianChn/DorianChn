@@ -10,6 +10,7 @@
 |---|-------|------|----------|
 | 1 | [skill-xlsx.md](skill-xlsx.md) | 用Python自动读写Excel文件 | 2026-08-04 |
 | 2 | [skill-maps.md](skill-maps.md) | 用Python做地图和地理编码 | 2026-08-05 |
+| 3 | [skill-arxiv.md](skill-arxiv.md) | 用Python搜索arXiv学术论文 | 2026-08-06 |
 
 ---
 
@@ -39,6 +40,7 @@
 
 ### Python 实用脚本
 - [skill-xlsx.md](skill-xlsx.md) - Excel文件处理
+- [skill-arxiv.md](skill-arxiv.md) - 搜索arXiv学术论文
 
 ### 地图和地理
 - [skill-maps.md](skill-maps.md) - 地图和地理编码
@@ -56,6 +58,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-06** - 添加 skill-arxiv.md（搜索arXiv学术论文）
 - **2026-08-05** - 添加 skill-maps.md（地图和地理编码）
 - **2026-08-04** - 添加 skill-xlsx.md（Excel文件处理）
 
