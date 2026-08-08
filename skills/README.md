@@ -11,7 +11,8 @@
 | 1 | [skill-xlsx.md](skill-xlsx.md) | 用Python自动读写Excel文件 | 2026-08-04 |
 | 2 | [skill-maps.md](skill-maps.md) | 用Python做地图和地理编码 | 2026-08-05 |
 | 3 | [skill-arxiv.md](skill-arxiv.md) | 用Python搜索arXiv学术论文 | 2026-08-06 |
-| 4 | [skill-web-scraping.md](skill-web-scraping.md) | 用Python抓取网页数据 | 2026-08-07 |
+|| 4 | [skill-web-scraping.md](skill-web-scraping.md) | 用Python抓取网页数据 | 2026-08-07 |
+| 5 | [skill-docx.md](skill-docx.md) | 用Python自动生成Word文档 | 2026-08-08 |
 
 ---
 
@@ -43,6 +44,7 @@
 - [skill-xlsx.md](skill-xlsx.md) - Excel文件处理
 - [skill-arxiv.md](skill-arxiv.md) - 搜索arXiv学术论文
 - [skill-web-scraping.md](skill-web-scraping.md) - 网页数据采集
+- [skill-docx.md](skill-docx.md) - Word文档自动生成
 
 ### 地图和地理
 - [skill-maps.md](skill-maps.md) - 地图和地理编码
@@ -60,6 +62,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-08** - 添加 skill-docx.md（用Python自动生成Word文档）
 - **2026-08-07** - 添加 skill-web-scraping.md（用Python抓取网页数据）
 - **2026-08-06** - 添加 skill-arxiv.md（搜索arXiv学术论文）
 - **2026-08-05** - 添加 skill-maps.md（地图和地理编码）
