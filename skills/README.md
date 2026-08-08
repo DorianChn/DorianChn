@@ -11,7 +11,7 @@
 | 1 | [skill-xlsx.md](skill-xlsx.md) | 用Python自动读写Excel文件 | 2026-08-04 |
 | 2 | [skill-maps.md](skill-maps.md) | 用Python做地图和地理编码 | 2026-08-05 |
 | 3 | [skill-arxiv.md](skill-arxiv.md) | 用Python搜索arXiv学术论文 | 2026-08-06 |
-|| 4 | [skill-web-scraping.md](skill-web-scraping.md) | 用Python抓取网页数据 | 2026-08-07 |
+| 4 | [skill-web-scraping.md](skill-web-scraping.md) | 用Python抓取网页数据 | 2026-08-07 |
 | 5 | [skill-docx.md](skill-docx.md) | 用Python自动生成Word文档 | 2026-08-08 |
 
 ---
