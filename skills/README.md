@@ -13,6 +13,7 @@
 | 3 | [skill-arxiv.md](skill-arxiv.md) | 用Python搜索arXiv学术论文 | 2026-08-06 |
 | 4 | [skill-web-scraping.md](skill-web-scraping.md) | 用Python抓取网页数据 | 2026-08-07 |
 | 5 | [skill-docx.md](skill-docx.md) | 用Python自动生成Word文档 | 2026-08-08 |
+| 6 | [skill-github.md](skill-github.md) | 用命令行管理GitHub仓库 | 2026-08-09 |
 
 ---
 
@@ -53,7 +54,7 @@
 （待更新）
 
 ### 开发工具
-（待更新）
+- [skill-github.md](skill-github.md) - GitHub仓库管理
 
 ### 效率工具
 （待更新）
@@ -62,6 +63,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-09** - 添加 skill-github.md（用命令行管理GitHub仓库）
 - **2026-08-08** - 添加 skill-docx.md（用Python自动生成Word文档）
 - **2026-08-07** - 添加 skill-web-scraping.md（用Python抓取网页数据）
 - **2026-08-06** - 添加 skill-arxiv.md（搜索arXiv学术论文）
