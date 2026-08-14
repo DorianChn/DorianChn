@@ -14,6 +14,7 @@
 | 4 | [skill-web-scraping.md](skill-web-scraping.md) | 用Python抓取网页数据 | 2026-08-07 |
 | 5 | [skill-docx.md](skill-docx.md) | 用Python自动生成Word文档 | 2026-08-08 |
 | 6 | [skill-github.md](skill-github.md) | 用命令行管理GitHub仓库 | 2026-08-09 |
+| 7 | [skill-ml-intro.md](skill-ml-intro.md) | 用Python入门机器学习（sklearn实战） | 2026-08-14 |
 
 ---
 
@@ -51,7 +52,7 @@
 - [skill-maps.md](skill-maps.md) - 地图和地理编码
 
 ### AI/ML 入门
-（待更新）
+- [skill-ml-intro.md](skill-ml-intro.md) - 机器学习入门
 
 ### 开发工具
 - [skill-github.md](skill-github.md) - GitHub仓库管理
@@ -63,6 +64,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-14** - 添加 skill-ml-intro.md（用Python入门机器学习）
 - **2026-08-09** - 添加 skill-github.md（用命令行管理GitHub仓库）
 - **2026-08-08** - 添加 skill-docx.md（用Python自动生成Word文档）
 - **2026-08-07** - 添加 skill-web-scraping.md（用Python抓取网页数据）
