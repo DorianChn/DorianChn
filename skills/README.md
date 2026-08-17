@@ -17,6 +17,7 @@
 | 7 | [skill-ml-intro.md](skill-ml-intro.md) | 用Python入门机器学习（sklearn实战） | 2026-08-14 |
 | 8 | [skill-webapp.md](skill-webapp.md) | 用单个HTML文件构建交互式Web应用 | 2026-08-15 |
 | 9 | [skill-file-automation.md](skill-file-automation.md) | 用Python批量处理文件（归类、重命名、去重） | 2026-08-16 |
+| 10 | [skill-database.md](skill-database.md) | 用Python操作SQLite数据库（增删改查、导入导出） | 2026-08-17 |
 
 ---
 
@@ -63,10 +64,14 @@
 ### 效率工具
 - [skill-file-automation.md](skill-file-automation.md) - 文件批量处理自动化
 
+### 数据库
+- [skill-database.md](skill-database.md) - SQLite数据库操作（增删改查、导入导出）
+
 ---
 
 ## 📅 更新记录
 
+- **2026-08-17** - 添加 skill-database.md（用Python操作SQLite数据库：增删改查、导入导出、分页查询）
 - **2026-08-16** - 添加 skill-file-automation.md（用Python批量处理文件：归类、重命名、去重）
 - **2026-08-15** - 添加 skill-webapp.md（用单个HTML文件构建交互式Web应用）
 - **2026-08-14** - 添加 skill-ml-intro.md（用Python入门机器学习）
