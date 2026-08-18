@@ -18,6 +18,7 @@
 | 8 | [skill-webapp.md](skill-webapp.md) | 用单个HTML文件构建交互式Web应用 | 2026-08-15 |
 | 9 | [skill-file-automation.md](skill-file-automation.md) | 用Python批量处理文件（归类、重命名、去重） | 2026-08-16 |
 | 10 | [skill-database.md](skill-database.md) | 用Python操作SQLite数据库（增删改查、导入导出） | 2026-08-17 |
+| 11 | [skill-docker.md](skill-docker.md) | 用Docker容器化部署Web应用（新手友好版） | 2026-08-18 |
 
 ---
 
@@ -60,6 +61,7 @@
 ### 开发工具
 - [skill-github.md](skill-github.md) - GitHub仓库管理
 - [skill-webapp.md](skill-webapp.md) - 单文件Web应用开发
+- [skill-docker.md](skill-docker.md) - Docker容器化部署
 
 ### 效率工具
 - [skill-file-automation.md](skill-file-automation.md) - 文件批量处理自动化
@@ -71,7 +73,7 @@
 
 ## 📅 更新记录
 
-- **2026-08-17** - 添加 skill-database.md（用Python操作SQLite数据库：增删改查、导入导出、分页查询）
+- **2026-08-18** - 添加 skill-docker.md（用Docker容器化部署Web应用：新手友好版，含Flask+MySQL实战）
 - **2026-08-16** - 添加 skill-file-automation.md（用Python批量处理文件：归类、重命名、去重）
 - **2026-08-15** - 添加 skill-webapp.md（用单个HTML文件构建交互式Web应用）
 - **2026-08-14** - 添加 skill-ml-intro.md（用Python入门机器学习）
