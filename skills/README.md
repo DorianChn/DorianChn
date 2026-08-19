@@ -19,6 +19,7 @@
 | 9 | [skill-file-automation.md](skill-file-automation.md) | 用Python批量处理文件（归类、重命名、去重） | 2026-08-16 |
 | 10 | [skill-database.md](skill-database.md) | 用Python操作SQLite数据库（增删改查、导入导出） | 2026-08-17 |
 | 11 | [skill-docker.md](skill-docker.md) | 用Docker容器化部署Web应用（新手友好版） | 2026-08-18 |
+| 12 | [skill-pdf.md](skill-pdf.md) | 用Python处理PDF文件（读取、合并、拆分、水印、加密） | 2026-08-19 |
 
 ---
 
@@ -51,6 +52,7 @@
 - [skill-arxiv.md](skill-arxiv.md) - 搜索arXiv学术论文
 - [skill-web-scraping.md](skill-web-scraping.md) - 网页数据采集
 - [skill-docx.md](skill-docx.md) - Word文档自动生成
+- [skill-pdf.md](skill-pdf.md) - PDF文件处理（读取、合并、拆分、水印、加密）
 
 ### 地图和地理
 - [skill-maps.md](skill-maps.md) - 地图和地理编码
@@ -73,6 +75,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-19** - 添加 skill-pdf.md（用Python处理PDF文件：读取、合并、拆分、水印、加密）
 - **2026-08-18** - 添加 skill-docker.md（用Docker容器化部署Web应用：新手友好版，含Flask+MySQL实战）
 - **2026-08-16** - 添加 skill-file-automation.md（用Python批量处理文件：归类、重命名、去重）
 - **2026-08-15** - 添加 skill-webapp.md（用单个HTML文件构建交互式Web应用）
