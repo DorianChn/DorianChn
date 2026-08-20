@@ -20,6 +20,7 @@
 | 10 | [skill-database.md](skill-database.md) | 用Python操作SQLite数据库（增删改查、导入导出） | 2026-08-17 |
 | 11 | [skill-docker.md](skill-docker.md) | 用Docker容器化部署Web应用（新手友好版） | 2026-08-18 |
 | 12 | [skill-pdf.md](skill-pdf.md) | 用Python处理PDF文件（读取、合并、拆分、水印、加密） | 2026-08-19 |
+| 13 | [skill-price-monitor.md](skill-price-monitor.md) | 用Python自动监控商品价格，降价提醒 | 2026-08-20 |
 
 ---
 
@@ -53,6 +54,7 @@
 - [skill-web-scraping.md](skill-web-scraping.md) - 网页数据采集
 - [skill-docx.md](skill-docx.md) - Word文档自动生成
 - [skill-pdf.md](skill-pdf.md) - PDF文件处理（读取、合并、拆分、水印、加密）
+- [skill-price-monitor.md](skill-price-monitor.md) - 商品价格监控和降价提醒
 
 ### 地图和地理
 - [skill-maps.md](skill-maps.md) - 地图和地理编码
@@ -67,6 +69,7 @@
 
 ### 效率工具
 - [skill-file-automation.md](skill-file-automation.md) - 文件批量处理自动化
+- [skill-price-monitor.md](skill-price-monitor.md) - 商品价格监控和降价提醒
 
 ### 数据库
 - [skill-database.md](skill-database.md) - SQLite数据库操作（增删改查、导入导出）
@@ -75,6 +78,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-20** - 添加 skill-price-monitor.md（用Python自动监控商品价格，降价提醒：支持京东/淘宝/亚马逊，含邮件/Webhook通知）
 - **2026-08-19** - 添加 skill-pdf.md（用Python处理PDF文件：读取、合并、拆分、水印、加密）
 - **2026-08-18** - 添加 skill-docker.md（用Docker容器化部署Web应用：新手友好版，含Flask+MySQL实战）
 - **2026-08-16** - 添加 skill-file-automation.md（用Python批量处理文件：归类、重命名、去重）
