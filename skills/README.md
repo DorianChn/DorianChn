@@ -21,6 +21,7 @@
 | 11 | [skill-docker.md](skill-docker.md) | 用Docker容器化部署Web应用（新手友好版） | 2026-08-18 |
 | 12 | [skill-pdf.md](skill-pdf.md) | 用Python处理PDF文件（读取、合并、拆分、水印、加密） | 2026-08-19 |
 | 13 | [skill-price-monitor.md](skill-price-monitor.md) | 用Python自动监控商品价格，降价提醒 | 2026-08-20 |
+| 14 | [skill-ocr.md](skill-ocr.md) | 用Python提取PDF和图片文字（OCR识别） | 2026-08-21 |
 
 ---
 
@@ -55,6 +56,7 @@
 - [skill-docx.md](skill-docx.md) - Word文档自动生成
 - [skill-pdf.md](skill-pdf.md) - PDF文件处理（读取、合并、拆分、水印、加密）
 - [skill-price-monitor.md](skill-price-monitor.md) - 商品价格监控和降价提醒
+- [skill-ocr.md](skill-ocr.md) - PDF和图片文字提取（OCR识别）
 
 ### 地图和地理
 - [skill-maps.md](skill-maps.md) - 地图和地理编码
@@ -78,6 +80,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-21** - 添加 skill-ocr.md（用Python提取PDF和图片文字：pymupdf轻量提取文字版PDF + Tesseract OCR识别扫描件，含中文支持）
 - **2026-08-20** - 添加 skill-price-monitor.md（用Python自动监控商品价格，降价提醒：支持京东/淘宝/亚马逊，含邮件/Webhook通知）
 - **2026-08-19** - 添加 skill-pdf.md（用Python处理PDF文件：读取、合并、拆分、水印、加密）
 - **2026-08-18** - 添加 skill-docker.md（用Docker容器化部署Web应用：新手友好版，含Flask+MySQL实战）
