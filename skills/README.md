@@ -22,6 +22,7 @@
 | 12 | [skill-pdf.md](skill-pdf.md) | 用Python处理PDF文件（读取、合并、拆分、水印、加密） | 2026-08-19 |
 | 13 | [skill-price-monitor.md](skill-price-monitor.md) | 用Python自动监控商品价格，降价提醒 | 2026-08-20 |
 | 14 | [skill-ocr.md](skill-ocr.md) | 用Python提取PDF和图片文字（OCR识别） | 2026-08-21 |
+| 15 | [skill-scheduler.md](skill-scheduler.md) | 用Python定时任务自动化（每天/每小时自动执行） | 2026-08-22 |
 
 ---
 
@@ -72,6 +73,7 @@
 ### 效率工具
 - [skill-file-automation.md](skill-file-automation.md) - 文件批量处理自动化
 - [skill-price-monitor.md](skill-price-monitor.md) - 商品价格监控和降价提醒
+- [skill-scheduler.md](skill-scheduler.md) - Python定时任务（自动执行脚本）
 
 ### 数据库
 - [skill-database.md](skill-database.md) - SQLite数据库操作（增删改查、导入导出）
@@ -80,6 +82,7 @@
 
 ## 📅 更新记录
 
+- **2026-08-22** - 添加 skill-scheduler.md（用Python定时任务自动化：schedule库实现每天/每小时自动执行脚本，含日报生成、自动备份完整示例）
 - **2026-08-21** - 添加 skill-ocr.md（用Python提取PDF和图片文字：pymupdf轻量提取文字版PDF + Tesseract OCR识别扫描件，含中文支持）
 - **2026-08-20** - 添加 skill-price-monitor.md（用Python自动监控商品价格，降价提醒：支持京东/淘宝/亚马逊，含邮件/Webhook通知）
 - **2026-08-19** - 添加 skill-pdf.md（用Python处理PDF文件：读取、合并、拆分、水印、加密）
